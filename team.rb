@@ -8,5 +8,12 @@ class Team
 		@name = name
 		@seed = seed 
 	end
+
+	
+
+
+
+
+	
 end
 
